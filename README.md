@@ -113,6 +113,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 - [Cursor](https://cursor.sh/) - AI-powered coding assistant
 - [Next.js](https://nextjs.org/) - React framework for production
+- [SQLite](https://www.sqlite.org/) - Database
 - [Drizzle ORM](https://orm.drizzle.team/) - TypeScript ORM
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Puppeteer](https://pptr.dev/) - Headless Chrome automation

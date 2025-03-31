@@ -1,0 +1,53 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Next.js build output
+.next
+out
+
+# Version control
+.git
+.gitignore
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+.DS_Store
+
+# Test files
+__tests__
+*.test.js
+*.test.ts
+coverage
+
+# Debug files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Documentation
+README.md
+CHANGELOG.md
+docs
+*.md
+
+# Misc
+*.sqlite
+*.sqlite3 

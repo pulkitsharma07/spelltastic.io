@@ -17,7 +17,7 @@ Catch Easy To Miss Typos, Grammatical Issues, and More on your website...
 ## Elevator Pitch
 1. Tools like Grammarly are used while you are writing content, whereas Spelltastic works on the end product, i.e. your website (just how users see it). Checking all your content first on Grammarly and then putting the same into your code (in your IDE) is time-consuming and error-prone. You may rarely 'grammar-check' content written on buttons, feature descriptions, img alt attributes etc. As content gets passed around, it is a pain to check it on Grammarly every time.
 
-1. Tools like Grammarly rely on a fixed set of words (which has to be updated by the user), they can't understand technical content or domain-specific terms. Since Spelltastic is powered by LLMs:
+1. Instead of relying on a fixed set of words (which has to be updated by the user), Spelltastic is powered by LLMs, So:
     * It automatically handles new terms
     * Understands technical content and domain-specific terms
     * Doesn't need a fixed dictionary.

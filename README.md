@@ -8,7 +8,7 @@ Catch Easy To Miss Typos, Grammatical Issues, and More on your website...
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Try Spelltastic Cloud](https://spelltastic.io) • [Report a bug](https://github.com/yourusername/spelltastic/issues) • [Request a feature](https://github.com/yourusername/spelltastic/issues)
+👀 [See Sample Report](https://spelltastic.io/public-report/667a42f2-1e66-430f-b416-08e55253f1fb) • [Report a bug](https://github.com/yourusername/spelltastic/issues) • [Request a feature](https://github.com/yourusername/spelltastic/issues)
 
 </div>
 
@@ -24,6 +24,7 @@ Catch Easy To Miss Typos, Grammatical Issues, and More on your website...
   * For example if you write `"to delete all data from Redis use the flshall command"`, it will highlight that the correct Redis command is `flushall` not `flshall`
 
 ## ✨ Features
+### To get a better understanding of the features, checkout the sample report [here](https://spelltastic.io/public-report/667a42f2-1e66-430f-b416-08e55253f1fb)
 
 - **Visual Reports**: Get detailed reports for your entire web page, with visual highlights and screenshots, and categorised by severity
 <div align="center">
@@ -71,8 +72,8 @@ Catch Easy To Miss Typos, Grammatical Issues, and More on your website...
 
 ```bash
 # Clone the repository
-git clone https://github.com/pulkitsharma07/spelltastic-core.git
-cd spelltastic-core
+git clone https://github.com/pulkitsharma07/spelltastic.io.git
+cd spelltastic.io
 
 # Build and run with Docker
 docker build -t spelltastic .
@@ -83,8 +84,8 @@ docker run -p 3000:3000 -e OPENAI_API_KEY=your_api_key_here spelltastic
 
 ```bash
 # Clone the repository
-git clone https://github.com/pulkitsharma07/spelltastic-core.git
-cd spelltastic-core
+git clone https://github.com/pulkitsharma07/spelltastic.io.git
+cd spelltastic.io
 
 # Install dependencies
 npm install

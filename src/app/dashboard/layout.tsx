@@ -75,7 +75,7 @@ export default function DashboardLayout({
             </div>
             <div>
               <a
-                href="https://github.com/spelltastic/spelltastic"
+                href="https://github.com/pulkitsharma07/spelltastic.io"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-orange-300 hover:text-orange-100 transition-colors"
@@ -92,6 +92,7 @@ export default function DashboardLayout({
                     clipRule="evenodd"
                   />
                 </svg>
+                pulkitsharma07/spelltastic.io
               </a>
             </div>
           </div>

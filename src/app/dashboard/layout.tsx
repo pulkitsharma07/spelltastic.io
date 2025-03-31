@@ -78,7 +78,7 @@ export default function DashboardLayout({
                 href="https://github.com/pulkitsharma07/spelltastic.io"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-orange-300 hover:text-orange-100 transition-colors"
+                className="text-orange-300 text-xs hover:text-orange-100 transition-colors flex items-center gap-2"
               >
                 <svg
                   className="h-6 w-6"

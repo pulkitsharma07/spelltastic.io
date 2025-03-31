@@ -14,6 +14,15 @@ Catch Easy To Miss Typos, Grammatical Issues, and More on your website...
 
 > This is the open-source core version of [spelltastic.io](https://spelltastic.io). For a fully managed service with additional features, visit our cloud platform.
 
+## Elevator Pitch
+1. Tools like Grammarly are used while you are writing content, whereas Spelltastic works on the end product, i.e. your website (just how users see it). Checking all your content first on Grammarly and then putting the same into your code (in your IDE) is time-consuming and error-prone. You may rarely 'grammar-check' content written on buttons, feature descriptions, img alt attributes etc. As content gets passed around, it is a pain to check it on Grammarly every time.
+
+1. Tools like Grammarly rely on a fixed set of words (which has to be updated by the user), they can't understand technical content or domain-specific terms. Since Spelltastic is powered by LLMs:
+    * It automatically handles new terms
+    * Understands technical content and domain-specific terms
+    * Doesn't need a fixed dictionary.
+  * For example if you write `"to delete all data from Redis use the flshall command"`, it will highlight that the correct Redis command is `flushall` not `flshall`
+
 ## ✨ Features
 
 - **Visual Reports**: Get detailed reports for your entire web page, with visual highlights and screenshots, and categorised by severity
